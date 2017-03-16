@@ -50,7 +50,7 @@ namespace youtubething
                
                 var tubeserv = new YouTubeService(new BaseClientService.Initializer()
                 {
-                    ApiKey = "AIzaSyDYXG0fLnPQmO1Thxyqe1He7j7tZ2JIpyU",
+                    ApiKey = "youtubeapikey",
                     ApplicationName = this.GetType().ToString()
                 });
 
